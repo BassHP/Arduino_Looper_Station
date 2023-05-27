@@ -7,4 +7,4 @@ Based on TMRpcm.h it generates samples with 8000khz mono, it´s a low fi project
 
 the code is basic and can be modified to give a better loop experience.
 
-Schematics and Gerber included
+Arduino file, Schematics and Gerber included
